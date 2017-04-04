@@ -12,6 +12,6 @@ git clone https://github.com/sgarver/socket-cat-server.git
 cd socket-cat-server
 npm install
 npm start
-`
+```
 Note: requires a running mongodb instance
 
