@@ -1,0 +1,21 @@
+{
+  "name": "SocketCatServer",
+  "version": "0.1.1",
+  "description": "A simple WebSocket chat client",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/socket-cat",
+  "keywords": [
+    "chat",
+    "WebSockets",
+    "Electron"
+  ],
+  "author": "sgarver",
+  "license": "MIT",
+  "dependencies": {
+    "mongojs": "^2.4.0",
+    "websocket": "^1.0.24"
+  }
+}
