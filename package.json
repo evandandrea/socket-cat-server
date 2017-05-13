@@ -1,5 +1,5 @@
 {
-  "name": "SocketCatServer",
+  "name": "socket-cat-server",
   "version": "0.3.0",
   "description": "A simple WebSocket chat server",
   "main": "server.js",
