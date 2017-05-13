@@ -1,6 +1,6 @@
 {
   "name": "socket-cat-server",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "description": "A simple WebSocket chat server",
   "main": "server.js",
   "scripts": {
