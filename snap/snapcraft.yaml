@@ -1,5 +1,5 @@
 
-name: socket-cat
+name: socket-cat-server
 version: '0.3.2'
 summary: A simple chat server
 description: |
