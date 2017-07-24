@@ -1,4 +1,7 @@
 # Socket Cat Server
+
+[![Snap Status](https://build.snapcraft.io/badge/sgarver/socket-cat-server.svg)](https://build.snapcraft.io/user/sgarver/socket-cat-server)
+
 A simple chat client using Electron and WebSockets
 
 ## Quickstart
